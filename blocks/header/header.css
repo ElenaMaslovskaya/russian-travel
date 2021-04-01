@@ -1,0 +1,9 @@
+.header {
+   min-width: 1184px;
+   min-height: 52px;
+   padding: 28px 48px 0px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   box-sizing: border-box;
+}
