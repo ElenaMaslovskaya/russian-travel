@@ -1,9 +1,9 @@
 .lead {
    margin: 0 auto;
    padding: 0 148px 22px;
-   min-width: 984px;
+   max-width: 984px;
    display: flex;
    flex-direction: column;
-   justify-content: space-between;
+   justify-content: center;
    text-align: center;
 }
