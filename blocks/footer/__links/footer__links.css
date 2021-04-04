@@ -2,6 +2,8 @@
    padding: 0;
    display: flex;
    list-style-type: none;
+<<<<<<< HEAD
+=======
 }
 
 @media screen and (max-width: 767px) {
@@ -11,4 +13,5 @@
    max-width: 186px;
    margin-left: 16px;
    }
+>>>>>>> gh-pages
 }

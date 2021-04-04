@@ -1,10 +1,18 @@
 .place__title {
    margin: 0;
+<<<<<<< HEAD
+   max-width: 460px;
+=======
    width: 100%;
+>>>>>>> gh-pages
    font-size: 72px;
    font-style: normal;
    font-weight: 900;
    line-height: 76px;
+<<<<<<< HEAD
+   letter-spacing: 0em;
+   text-align: left;
+=======
    grid-row: 1;
    grid-column: 1;
    align-self: end;
@@ -23,4 +31,5 @@
    .place__title {
    font-size: 32px;
    line-height: 35px;
+>>>>>>> gh-pages
 }

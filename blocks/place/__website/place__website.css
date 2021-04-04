@@ -4,10 +4,13 @@
    grid-column: 2;
    align-self: end;
    justify-self: start;
+<<<<<<< HEAD
+=======
 }
 
 @media screen and (max-width: 767px) {
    .place__website {
    display: none;
    }
+>>>>>>> gh-pages
 }

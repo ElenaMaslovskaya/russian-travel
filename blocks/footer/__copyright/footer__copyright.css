@@ -4,6 +4,8 @@
    font-weight: 400;
    line-height: 16px;
    text-align: right;
+<<<<<<< HEAD
+=======
 }
 
 @media screen and (max-width: 767px) {
@@ -13,4 +15,5 @@
    margin-bottom: 24px;
    text-align: left;
    }
+>>>>>>> gh-pages
 }
