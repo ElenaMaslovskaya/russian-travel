@@ -1,10 +1,8 @@
 .cover {
    max-width: 1184px;
-<<<<<<< HEAD
    margin: 0;
    padding: 0 48px;
    text-align: center;
-=======
    margin: 0 auto;
    margin-top: 92px;
    padding: 0 48px;
@@ -29,5 +27,4 @@
    max-width: 320px;
    margin-top: 64px;
    }
->>>>>>> gh-pages
 }

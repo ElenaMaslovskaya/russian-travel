@@ -1,9 +1,7 @@
 .places {
    max-width: 984px;
-<<<<<<< HEAD
    margin: 0;
    padding: 92px 148px;
-=======
    margin: 0 auto;
    margin-top: 92px;
    display: grid;
@@ -33,5 +31,4 @@
       grid-row-gap: 50px;
       margin-top: 64px;
    }
->>>>>>> gh-pages
 }

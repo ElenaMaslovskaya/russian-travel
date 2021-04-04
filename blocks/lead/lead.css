@@ -2,20 +2,14 @@
    margin: 0 auto;
    margin-top: 56px;
    max-width: 984px;
-<<<<<<< HEAD
    display: flex;
    flex-direction: column;
    justify-content: center;
    text-align: center;
-=======
->>>>>>> gh-pages
 }
 
 @media screen and (max-width: 1279px) {
    .lead {
-<<<<<<< HEAD
-
-=======
    max-width: 928px;
    margin-top: 48px;
    }
@@ -30,6 +24,5 @@
 @media screen and (max-width: 767px) {
    .lead {
       min-width: 320px;
->>>>>>> gh-pages
    }
 }

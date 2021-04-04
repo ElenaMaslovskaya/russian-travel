@@ -5,10 +5,7 @@
    margin: 0 auto;
    display: flex;
    justify-content: space-between;
-<<<<<<< HEAD
    box-sizing: border-box;
-=======
->>>>>>> gh-pages
 }
 
 @media screen and (max-width: 1279px) {
@@ -23,18 +20,17 @@
    }
 }
 
-<<<<<<< HEAD
 @media screen and (max-widt: 767px) {
    .header {
       max-width: 288px;
       max-height: 42px;
       padding-top: 16px 16px 0;
-=======
+   }
+}
 @media screen and (max-width: 767px) {
    .header {
       max-width: 288px;
       max-height: 42px;
       padding-top: 16px;
->>>>>>> gh-pages
    }
 }

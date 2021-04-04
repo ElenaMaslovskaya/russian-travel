@@ -32,8 +32,6 @@
 .cover__overlay-link:hover::after {
    opacity: 0.8;
 }
-<<<<<<< HEAD
-=======
 
 @media screen and (max-width: 1024px) {
    .cover__overlay-link {
@@ -52,4 +50,4 @@
    min-height: 200px;
    }
 }
->>>>>>> gh-pages
+
