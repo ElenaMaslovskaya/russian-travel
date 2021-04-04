@@ -2,4 +2,16 @@
    padding: 0;
    display: flex;
    list-style-type: none;
+<<<<<<< HEAD
+=======
+}
+
+@media screen and (max-width: 767px) {
+   .footer__links {
+   margin: 0;
+   flex-direction: column;
+   max-width: 186px;
+   margin-left: 16px;
+   }
+>>>>>>> gh-pages
 }

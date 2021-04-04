@@ -1,6 +1,10 @@
 .lead__image {
    max-width: 100%;
+<<<<<<< HEAD
    box-sizing: border-box;
+=======
+   width: 100%;
+>>>>>>> gh-pages
    margin-top: 64px;
 }
 

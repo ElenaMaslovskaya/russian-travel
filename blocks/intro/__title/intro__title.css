@@ -1,4 +1,5 @@
 .intro__title {
+<<<<<<< HEAD
 margin: 0;
 padding: 0;
 font-size: 54px;
@@ -7,4 +8,23 @@ font-weight: 900;
 line-height: 58px;
 letter-spacing: 0em;
 text-align: left;
+=======
+   man-width: 690px;
+   margin: 0;
+   padding: 0;
+   font-size: 54px;
+   font-style: normal;
+   font-weight: 900;
+   line-height: 58px;
+   letter-spacing: 0em;
+   text-align: left;
+}
+
+@media screen and (max-width: 767px) {
+   .intro__title {
+   max-width: 288px;
+   font-size: 32px;
+   line-height: 35px;
+   }
+>>>>>>> gh-pages
 }

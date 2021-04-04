@@ -7,6 +7,10 @@
    font-style: normal;
    font-weight: 400;
    line-height: 36px;
+<<<<<<< HEAD
+=======
+   text-align: center;
+>>>>>>> gh-pages
 }
 
 @media screen and (max-width: 767px) {
