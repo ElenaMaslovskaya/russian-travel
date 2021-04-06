@@ -1,8 +1,6 @@
-.__lang-links.css {
-   padding: 0;
-   margin: 0;
-   display: flex;
-   flex-direction: row;
-   justify-content: space-between;
-   align-items: center;
+.header__lang-links {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  list-style-type: none;
 }
