@@ -4,3 +4,7 @@
   display: flex;
   list-style-type: none;
 }
+
+.header__lang-links:hover {
+  opacity: 80%;
+}
